@@ -1,3 +1,5 @@
+Link para o "notion.so" para detalhes do funcionamento: https://www.notion.so/Detalhes-do-Desenvolvimento-do-Desafio-de-Gabriel-Linard-Leite-23cc350ff2db809e9abbd86cdb3aaffe?source=copy_link
+
 1.Para executar o código Python "baixar_csv_firefox.py", é necessário modificar o arquivo ".env" onde tem "sua_senha_aqui", colocando a sua senha real do 
 banco de dados PostgreSQL. 
 
